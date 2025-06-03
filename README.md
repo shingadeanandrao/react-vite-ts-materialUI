@@ -19,7 +19,7 @@ VITE + React + TS +Material UI
 ```
 ## Env
 ```bash
-
+VITE_API_URL =http://localhost:3000,
 ```
 
 ## Run the Project
